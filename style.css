@@ -1,0 +1,169 @@
+.ul1 {
+  font-family: "Open Sans";
+  list-style-type: none;
+  margin: 0;
+  padding: 40px;
+  overflow: hidden;
+    background-color: white;
+    color: #01aefa;
+
+}
+
+.ul2 {
+  font-family: "Open Sans";
+  list-style-type: none;
+  margin: 0;
+  padding-left: 40px;
+  overflow: hidden;
+    background-color: #01aefa;
+    color: white;
+
+}
+.imageovrtxt {
+  position: relative;
+
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+}
+.txt1 {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 36px;
+    color: white;
+}
+.txt2 {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 36px;
+    color: white;
+    background-color: #fa9b05;
+}
+.p {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+    color: white;
+   
+}
+
+.div3 {
+  position: relative;
+    padding: 40px;
+  text-align: center;
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+  color: white;
+    background-color: #01aefa;
+}
+.div4 {
+  position: relative;
+    padding-left: 160px;
+    padding-top: 60px;
+  
+ 
+    background-color: white;
+}
+.myButton {
+	box-shadow:inset 0px 39px 0px -24px #54a3f7;
+	background-color:#007dc1;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	  font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+	text-shadow:0px 1px 0px #154682;
+    padding: 10px;
+}
+.txt3 {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 36px;
+    color: #fa9b05;
+   
+}
+
+.box {
+    border-style: groove;
+    position: relative;
+    width: 270px;
+}
+.btxt2 {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 12px;
+    color: white;
+    background-color: #fa9b05;
+}
+.checked {
+  color: #01aefa;
+}
+.pa {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+    color: #fa9b05;
+   
+}
+.pb {
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+    color: gray;
+   
+}
+
+table, td, th {
+  border: none;
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 20px;
+    color: black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.myButton2 {
+	box-shadow:inset 0px 39px 0px -24px #fa9b05;
+	background-color:#fa9b05;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	  font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+	text-shadow:0px 1px 0px #fa9b05;
+    padding: 10px;
+}
+.div5 {
+  position: relative;
+    padding: 40px;
+  text-align: center;
+     font-family: 'Open Sans';
+   font-style: normal;
+   font-weight: 300;
+    font-size: 16px;
+  color: white;
+    background-color: #fa9b05;
+}
